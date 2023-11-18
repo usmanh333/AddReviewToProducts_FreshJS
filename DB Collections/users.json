@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "652e54cdd9290c1e4a3efa33"
+  },
+  "username": "Vera Carpenter",
+  "designation": "Web Developer",
+  "status": "Active",
+  "createdAt": {
+    "$numberLong": "1697535181901"
+  },
+  "updateAt": {
+    "$numberLong": "1697535181901"
+  },
+  "reviews": [
+    {
+      "remarks": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",
+      "rating": 3,
+      "createdAt": {
+        "$numberLong": "1697542359529"
+      },
+      "updatedAt": {
+        "$numberLong": "1697542359529"
+      }
+    },
+    {
+      "remarks": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",
+      "rating": 5,
+      "createdAt": {
+        "$numberLong": "1697544507560"
+      },
+      "updatedAt": {
+        "$numberLong": "1697544507560"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "652e54f0d9290c1e4a3efa34"
+  },
+  "username": "John Doe",
+  "designation": "MERN Developer",
+  "status": "Active",
+  "createdAt": {
+    "$numberLong": "1697535216624"
+  },
+  "updateAt": {
+    "$numberLong": "1697535216624"
+  }
+},
+{
+  "_id": {
+    "$oid": "652e5514d9290c1e4a3efa35"
+  },
+  "username": "Allen doe",
+  "designation": "C# Developer",
+  "status": "Active",
+  "createdAt": {
+    "$numberLong": "1697535252326"
+  },
+  "updateAt": {
+    "$numberLong": "1697535252326"
+  }
+},
+{
+  "_id": {
+    "$oid": "652e5534d9290c1e4a3efa36"
+  },
+  "username": "Derrick",
+  "designation": "MEAN Developer",
+  "status": "Active",
+  "createdAt": {
+    "$numberLong": "1697535284966"
+  },
+  "updateAt": {
+    "$numberLong": "1697535284966"
+  }
+}]
